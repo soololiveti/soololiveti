@@ -46,7 +46,7 @@ Estudiar **Ingeniería en Sistemas de Información** en la **UTN** y seguir form
 Estoy abierta a colaborar en proyectos, practicar nuevas tecnologías y aprender en comunidad.  
 No dudes en contactarme o seguirme en mis redes:
 
-- 📧 **Email:** *[tu-email]*
+- 📧 **Email:** *sololiveti@gmail.com*
 - 💼 [LinkedIn](https://www.linkedin.com/in/sol-oliveti)
 - 🌐 [Portfolio](https://github.com/sololiveti) *(en construcción)*
 
